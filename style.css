@@ -1,0 +1,28 @@
+ body{
+    background-color: #697597 ;
+ }
+ .navbar{
+    height: 200px;
+    background-color: #3c4564;
+    margin-bottom: 40px;
+ }
+ #carouselExampleControls{
+     width:640px; 
+     height:360px;
+     margin: auto;
+     overflow: hidden;
+     
+
+     }
+     .carousel .carousel-item {
+        height: 500px;
+      }
+      
+      .carousel-item img {
+          position: absolute;
+          object-fit: cover;
+          top: 0;
+          left: 0;
+          min-height: 500px;
+      }
+      
