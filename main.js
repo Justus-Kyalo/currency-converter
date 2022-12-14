@@ -37,3 +37,14 @@ converterForm.addEventListener("submit", (e) => {
     //If there is an error with the fetch request or parsing the response, it is caught in the console.
     .catch((err) => console.error(err));
 });
+//alerts footer items
+const services = () => {
+  alert(
+    "convert pairs of currencies. Choose from over 100 different currencies."
+  );
+};
+const about = () => {
+  alert(
+    "We convert currency depending on the trend within the previous hour of the currency value in the world"
+  );
+};
