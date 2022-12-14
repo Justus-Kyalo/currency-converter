@@ -48,3 +48,6 @@ const about = () => {
     "We convert currency depending on the trend within the previous hour of the currency value in the world"
   );
 };
+const donate = () =>{
+  alert('M-pesa:0792374057')
+}
