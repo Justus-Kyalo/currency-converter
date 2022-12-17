@@ -1,6 +1,6 @@
 
 # Currency Converter
-![Screenshot](APP.png)
+![Screenshot](https://github.com/RemmyKyalo/currency-converter/blob/master/images/APP.png)
 
 This is a simple currency converter that allows you to convert pairs of currencies. Choose from over 100 different currencies. The conversion is based on the trend within the previous hour of the currency value in the world.
 
